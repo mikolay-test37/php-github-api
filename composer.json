@@ -22,7 +22,7 @@
         "guzzle/guzzle":   "~3.7"
     },
     "require-dev": {
-        "phpunit/phpunit": "~4.0",
+        "phpunit/1phpunit": "~4.0",
         "sllh/php-cs-fixer-styleci-bridge": "~1.3"
     },
     "suggest": {
